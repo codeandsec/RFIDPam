@@ -1,7 +1,7 @@
 NFC RFID Linux PAM
 =============
 
-Thid PAM module uses D-Logic RFID SDK binary
+This PAM module uses D-Logic RFID SDK binary
 
 Steps to use this module:
 - Go to MyAuthGen
